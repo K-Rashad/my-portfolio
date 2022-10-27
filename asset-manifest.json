@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.77dfc8f3.css",
-    "main.js": "/my-portfolio/static/js/main.1ee9ef6d.js",
-    "static/media/portfolio5.png": "/my-portfolio/static/media/portfolio5.e78c2b5f9614238705c5.png",
-    "static/media/RASHAD_CV.pdf": "/my-portfolio/static/media/RASHAD_CV.6ea33e6f6f9947a3be24.pdf",
-    "static/media/me5.png": "/my-portfolio/static/media/me5.f1d4f632732abb7feeb5.png",
-    "static/media/portfolio2.png": "/my-portfolio/static/media/portfolio2.088fa934a3a151c02f4f.png",
-    "static/media/portfolio6.jpg": "/my-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/ras-about-now.jpg": "/my-portfolio/static/media/ras-about-now.f3fbf18b866fb87630ed.jpg",
-    "static/media/portfolio3.png": "/my-portfolio/static/media/portfolio3.9c4105ddccb2f1c90c96.png",
-    "static/media/portfolio4.png": "/my-portfolio/static/media/portfolio4.961f6f620741d34ce572.png",
-    "static/media/portfolio1.png": "/my-portfolio/static/media/portfolio1.100a92b095a1f65ef41a.png",
-    "index.html": "/my-portfolio/index.html",
-    "main.77dfc8f3.css.map": "/my-portfolio/static/css/main.77dfc8f3.css.map",
-    "main.1ee9ef6d.js.map": "/my-portfolio/static/js/main.1ee9ef6d.js.map"
+    "main.css": "/static/css/main.77dfc8f3.css",
+    "main.js": "/static/js/main.565dda54.js",
+    "static/media/portfolio5.png": "/static/media/portfolio5.e78c2b5f9614238705c5.png",
+    "static/media/RASHAD_CV.pdf": "/static/media/RASHAD_CV.6ea33e6f6f9947a3be24.pdf",
+    "static/media/me5.png": "/static/media/me5.f1d4f632732abb7feeb5.png",
+    "static/media/portfolio2.png": "/static/media/portfolio2.088fa934a3a151c02f4f.png",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/ras-about-now.jpg": "/static/media/ras-about-now.f3fbf18b866fb87630ed.jpg",
+    "static/media/portfolio3.png": "/static/media/portfolio3.9c4105ddccb2f1c90c96.png",
+    "static/media/portfolio4.png": "/static/media/portfolio4.961f6f620741d34ce572.png",
+    "static/media/portfolio1.png": "/static/media/portfolio1.100a92b095a1f65ef41a.png",
+    "index.html": "/index.html",
+    "main.77dfc8f3.css.map": "/static/css/main.77dfc8f3.css.map",
+    "main.565dda54.js.map": "/static/js/main.565dda54.js.map"
   },
   "entrypoints": [
     "static/css/main.77dfc8f3.css",
-    "static/js/main.1ee9ef6d.js"
+    "static/js/main.565dda54.js"
   ]
 }
